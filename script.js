@@ -42,11 +42,11 @@ const projects = [
 
 /* 3) COMMUNICATION / SOCIAL LINKS */
 const communication = {
-  phone: "+8801XXXXXXXXX",
-  email: "your.email@example.com",
-  facebook: "https://facebook.com/yourusername",
+  phone: "+8801531-654066",
+  email: "fardin.edu10@gmail.com",
+  facebook: "https://facebook.com/fardeen-khan",
   linkedin: "https://linkedin.com/in/yourusername",
-  github: "https://github.com/yourusername"
+  github: "https://github.com/fardinedu10-cloud"
 };
 
 /* 4) COLOR SYSTEM
